@@ -4,8 +4,8 @@
 
 ## Project goals:
 
-* create an index displaying all hog tiles
-* render each hog name and picture in a tile
+# create an index displaying all hog tiles
+# render each hog name and picture in a tile
 * show the hog's details upon a user's click
 * allow users to sort the hogs based on name and weight and filter the hogs that are greased
 
